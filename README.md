@@ -17,13 +17,9 @@ a simple chatterino plugin that lets you send the same message to two twitch cha
 
 open `chatterino_multichat/init.lua`.
 
-at the top of the file, change `CHANNEL_A` and `CHANNEL_B` to the channels you want.
+at the top of the file, change `channel_2` and `channel_2` to the channels you want.
 
-for example:
 
-`local CHANNEL_A = "marlon"`
-
-`local CHANNEL_B = "lacy"`
 
 ### 2. install the plugin
 
@@ -109,6 +105,4 @@ if your account cannot normally send messages in a channel, this plugin will not
 
 both channels must be open in chatterino.
 
-## license
 
-MIT
