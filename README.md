@@ -23,9 +23,9 @@ at the top of the file, change `channel_2` and `channel_2` to the channels you w
 
 ### 2. install the plugin
 
-download the latest release and extract it.
+open the `chatterino_multichat` folder in this repository and download `init.lua` and `info.json`.
 
-put the `chatterino_multichat` folder inside your chatterino `plugins` folder.
+put both files inside a new `chatterino_multichat` folder in your chatterino `plugins` folder.
 
 your folder should look like this:
 
