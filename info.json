@@ -1,0 +1,8 @@
+{
+    "name": "MultiChat",
+    "description": "send the same message to two twitch channels at once.",
+    "version": "1.0.0",
+    "authors": ["pogix"],
+    "homepage": "https://github.com/notpogix/chatterino-multichat",
+    "license": "MIT"
+}
